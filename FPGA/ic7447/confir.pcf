@@ -1,0 +1,8 @@
+set_io d 38
+set_io c 54
+set_io b 56
+set_io a 59
+set_io D 36
+set_io C 55
+set_io B 57
+set_io A 60
